@@ -1,0 +1,4 @@
+img[src*="https://cdn.discordapp.com/avatars/265596222507712513/6846c60f3e841b9f602de718afd786e4.webp"] ~ h3.header-2jRmjb::after {
+	content: "  *DENIED TOY* ";
+	color: rgb(0, 255, 237);
+}
